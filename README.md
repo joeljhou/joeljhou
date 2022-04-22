@@ -23,3 +23,14 @@ Here are some ideas to get you started:
 </div>
 
 <!-- first row -->
+
+    
+### 🏆 Github Status
+
+<a href="">
+
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=hellokaton&column=7&theme=onedark"/>
+    </p>
+
+</a>
