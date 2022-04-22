@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 **joeljhou/joeljhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
+
+<!-- two Cat -->
 
 <div style="background: green ">
 <!-- top left -->
@@ -22,20 +21,12 @@ Here are some ideas to get you started:
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
 </div>
 
-<!-- first row -->
-
     
 ### 🏆 Github Status
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hellokaton&column=7&theme=onedark"/>
+</p>
 
-<a href="">
-
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=hellokaton&column=7&theme=onedark"/>
-    </p>
-
-</a>
-<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
-<a align="center" href="">
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hellokaton&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
@@ -44,4 +35,3 @@ Here are some ideas to get you started:
 
 
 
-<!-- programming langs i work-->
