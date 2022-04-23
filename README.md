@@ -23,7 +23,7 @@
 ### ☕ Get In Touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joeljhou)
 [![Gitee](https://img.shields.io/badge/-Gitee-bc2025?style=flat&logo=Gitee&logoColor=white)](https://gitee.com/joeljhou)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-cyan?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/12606347/joeljhou)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48225?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/12606347/joeljhou)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/StrayPurpose)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://space.bilibili.com/394136840)
 [![Blog](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)]()
