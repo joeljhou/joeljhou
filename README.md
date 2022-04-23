@@ -11,6 +11,14 @@
     <img src="https://github-profile-trophy.vercel.app/?username=hellokaton&column=7&theme=onedark"/>
 </p>
 
+    
+### 👀 Active Repo
+
+[![Leet Code](https://github-readme-stats.vercel.app/api/pin/?username=joeljhou&repo=leetcode)](https://github.com/joeljhou/leetcode)
+
+
+![Leet Code](https://github-readme-stats.vercel.app/api/pin/?username=joeljhou&repo=JavaFamily)(https://github.com/joeljhou/JavaFamily
+    
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hellokaton&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
