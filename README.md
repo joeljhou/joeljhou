@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hellokaton&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellokaton&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=joeljhou&show_icons=true&theme=JavaFamily" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeljhou&layout=compact&theme=JavaFamily" alt="languages" height="165">
 </p>
 
 ### ☕ Get In Touch
