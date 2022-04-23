@@ -13,7 +13,7 @@
     
 ### 🏆 Github Status
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hellokaton&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=joeljhou&column=7&theme=onedark"/>
 </p>
 
 <p align="center">
