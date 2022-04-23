@@ -27,5 +27,5 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/StrayPurpose)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://space.bilibili.com/394136840)
 [![Blog](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](joeljhou336@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joeljhou336@gmail.com)
 
